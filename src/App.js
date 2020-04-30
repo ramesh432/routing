@@ -15,6 +15,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Simple React App</h1>
+          <h2>ramesh</h2>
         </header>
           <Switch>
                 <Route exact path= "/" render={() => (
